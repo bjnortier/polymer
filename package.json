@@ -1,0 +1,31 @@
+{
+  "name": "polymer",
+  "version": "0.1.0",
+  "description": "2D and 3D Polygon library",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bjnortier/polymer.git"
+  },
+  "keywords": [
+    "Polygons",
+    "2D",
+    "3D"
+  ],
+  "author": "Ben Nortier <ben@bjnortier.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjnortier/polymer/issues"
+  },
+  "homepage": "https://github.com/bjnortier/polymer",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-simple-mocha": "^0.4.0"
+  }
+}
